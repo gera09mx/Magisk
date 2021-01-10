@@ -430,5 +430,4 @@
 - And much more....
 
 ### v1.0
-
-- Initial release
+2ial release
